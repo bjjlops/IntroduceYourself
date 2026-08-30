@@ -6,7 +6,7 @@ Introduce Yourself collects a student's first name, last name, school, academic 
 
 ## App Walk-through
 
-Walk-through GIF coming soon.
+<img src="README-assets/walkthrough.gif" width="320" alt="Introduce Yourself app walkthrough">
 
 ## Required Features
 
